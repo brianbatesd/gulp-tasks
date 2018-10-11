@@ -7,7 +7,7 @@ Some differences between Gulp and Grunt:
 
 * Gulp has watch built-in
 * Gulp requires a sequence to run concurrent tasks
-* Gulp dependencies are faster to setup on El Capitan
+* Gulp dependencies are faster to setup
 * Gulp code is arguably more readable
 
 [Awesome guide to getting started with Gulp](https://css-tricks.com/gulp-for-beginners/)
